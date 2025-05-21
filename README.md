@@ -18,5 +18,5 @@
       Inside data folder, create two empty files: names.pkl and faces_data.pkl
 
 5. Run the interface script:
-      python Attendance/int.py
+      python int.py
 
