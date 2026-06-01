@@ -1,0 +1,37 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+attend/
+
+# ML/DL Models
+*.onnx
+*.tflite
+*.task
+*.pb
+*.h5
+*.hdf5
+*.pth
+*.pt
+
+# Pickle files
+*.pkl
+
+# Face recognition data
+Data/faces_data.pkl
+Data/names.pkl
+Data/names_languages.pkl
+
+# Attendance records
+Attendance/
+Data/attendance_audit.jsonl
+
+# Zip files
+*.zip
+
+models/*.onnx
+models/*.tflite
+models/*.task
+*.zip
+*.pkl
